@@ -2,6 +2,7 @@
 - Wireless Communication 　無線通信(情報通信工学)
   - Large MIMO(Multi-Input Multi-Output)
   - Belief Propagation(確立伝搬法)
+    - Gaussian Belief Propagation 
   - Parametric Bilinear Inference(双線形推論)
   - Bayesian inference(ベイズ推論)
 
