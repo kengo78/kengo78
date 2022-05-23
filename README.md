@@ -21,6 +21,7 @@
 - 構造化データ処理
 - 自動運転技術
 - AR/VR系統
+- アプリ開発
 
 [Qiita](https://qiita.com/fulken)
 
