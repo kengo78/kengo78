@@ -22,6 +22,7 @@
 - 自動運転技術
 - AR/VR系統
 - アプリ開発
+- 機械学習を用いた技術開発
 
 [Qiita](https://qiita.com/fulken)
 
