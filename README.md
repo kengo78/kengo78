@@ -27,4 +27,8 @@
 ## Qiita
 [Qiita](https://qiita.com/fulken)
 
+## 現在取り組んでいること
+- 家計簿アプリの実装の続き
+- CNNによる画像認識
+- OTFS伝送における非正数ドップラー
 
