@@ -5,6 +5,10 @@
     - Gaussian Belief Propagation 
   - Parametric Bilinear Inference(双線形推論)
   - Bayesian inference(ベイズ推論)
+## 研究内容
+- OTFS伝送(変調方式)
+- ドップラーシフトによる時間選択性を有する二重選択性フェージングの補償
+- パイロットの配置
 
 ## 個人勉強
 - 機械学習(ML) 自然言語処理 
