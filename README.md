@@ -3,7 +3,7 @@
   - Large MIMO(Multi-Input Multi-Output)
   - Belief Propagation(確立伝搬法)
     - Gaussian Belief Propagation 
-  - Parametric Bilinear Inference(双線形推論)
+  - Parametric Bilinear Inference(パラメトリック双線形推論)
   - Bayesian inference(ベイズ推論)
 ## 研究内容
 - OTFS伝送(変調方式)
