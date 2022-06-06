@@ -38,6 +38,6 @@
 - OTFS伝送における非正数ドップラー
 - リンク予測
 
-[![Kengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo78&theme=vue-dark&show_icons=true)](https://github.com/kengo78/github-readme-stats)
+<!-- [![Kengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo78&theme=vue-dark&show_icons=true)](https://github.com/kengo78/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kengo78&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kengo78/github-readme-stats)
