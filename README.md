@@ -39,7 +39,6 @@
 - 家計簿アプリの実装の続き
 - CNNによる画像認識
 - OTFS伝送における非正数ドップラー
-- リンク予測
 
 <!-- [![Kengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo78&theme=vue-dark&show_icons=true)](https://github.com/kengo78/github-readme-stats) -->
 
