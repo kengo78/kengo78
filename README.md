@@ -31,7 +31,7 @@
 freee
 実務インターン(2weeks)
 8/22 ~ 9/2
-SREチーム
+SREチーム(DBRE)
 
 M3
 AIエンジニアインターン(2weeks)
