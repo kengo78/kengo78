@@ -23,6 +23,7 @@
 - アルゴリズム(最適化)
 - Pytorch
 - グラフの可視化
+- Cousera Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 達成済み 9月 23 2022
 
 ## インターン
 株式会社EXIDEA
