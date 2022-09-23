@@ -11,7 +11,8 @@
 - パイロットの配置
 
 ## 受賞
-2022/6 RCS研究会 優秀賞受賞 「OTFS伝送のためのパラメトリックGaBP(Gaussian Belief Propagation)を用いたデータと通信路の同時推定に関する一検討」 
+2022/6 RCS研究会 優秀賞受賞  
+「OTFS伝送のためのパラメトリックGaBP(Gaussian Belief Propagation)を用いたデータと通信路の同時推定に関する一検討」 
 
 ## 個人勉強
 - 機械学習(ML) Tensorflow 自然言語処理 
