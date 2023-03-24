@@ -17,24 +17,25 @@
 ## 個人勉強
 - 機械学習(ML) 自然言語処理 
 - Pytorch
-- グラフの可視化
+- Golang
+<!-- - グラフの可視化 -->
 - Cousera Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 達成済み 9月 23 2022
 
 ## インターン
 株式会社EXIDEA
 データサイエンティストインターン(2021/08 ~ )
-- データ分析 可視化　展開
-- リバースエンジニアリング
-- 自然言語処理についての研究開発
-- AWS インフラ
-- 自然言語処理についての研究開発
+- データ分析 可視化　展開(EL処理、ETL処理、 sparkでの分散処理)
+- リバースエンジニアリング(PHP, R → pythonのためのロジック整理)
+- AWS(GLUE, Sagemaker, Datapipeline, sagemaker studio, mlpipeline,Quicksight)
+- 自然言語処理についての研究開発(キーワード分析、生成、抽出系のモデル作成、検証,finetuning)
 
 freee
 実務インターン(2weeks)
 8/22 ~ 9/2
 SREチーム(DBRE)
 - DB周りの検証
-SREチーム(DBRE)
+- Ruby
+- redis
 
 M3
 AIエンジニアインターン(2weeks)
@@ -66,8 +67,8 @@ Happylifecreators株式会社
 ## Qiita
 [Qiita](https://qiita.com/fulken)
 
-## 現在取り組んでいること
-- AIモデル構築100ノック
+## 最近取り組んでいること
+- AIモデル構築100ノック(自然言語以外の機械学習モデルを勉強するため)
 - ベイズ推定とEMアルゴリズム
 
 <!-- [![Kengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo78&theme=vue-dark&show_icons=true)](https://github.com/kengo78/github-readme-stats) -->
