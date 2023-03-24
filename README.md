@@ -8,20 +8,14 @@
 ## 研究内容
 - OTFS伝送(変調方式)
 - ドップラーシフトによる時間選択性を有する二重選択性フェージングの補償
-- パイロットの配置
+- Sparse Bayesian Learning
 
 ## 受賞
 2022/6 RCS研究会 優秀賞受賞  
 「OTFS伝送のためのパラメトリックGaBP(Gaussian Belief Propagation)を用いたデータと通信路の同時推定に関する一検討」 
 
 ## 個人勉強
-- 機械学習(ML) Tensorflow 自然言語処理 
-  - Cousera にて勉強中
-- Django
-  - アプリ開発を用いて勉強中
-- SQL
-  - アプリ開発を用いて勉強中
-- アルゴリズム(最適化)
+- 機械学習(ML) 自然言語処理 
 - Pytorch
 - グラフの可視化
 - Cousera Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 達成済み 9月 23 2022
@@ -67,14 +61,14 @@ Happylifecreators株式会社
 - AR/VR系統
 - アプリ開発
 - 機械学習を用いた技術開発
+- 大規模データを用いた開発
 
 ## Qiita
 [Qiita](https://qiita.com/fulken)
 
 ## 現在取り組んでいること
-- 家計簿アプリの実装の続き
-- CNNによる画像認識
-- OTFS伝送における非正数ドップラー
+- AIモデル構築100ノック
+- ベイズ推定とEMアルゴリズム
 
 <!-- [![Kengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo78&theme=vue-dark&show_icons=true)](https://github.com/kengo78/github-readme-stats) -->
 
