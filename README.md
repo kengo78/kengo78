@@ -9,10 +9,12 @@
 - OTFS伝送(変調方式)
 - ドップラーシフトによる時間選択性を有する二重選択性フェージングの補償
 - Sparse Bayesian Learning
+- 階層型事前分布を用いた汎用的な分布の設計
 
 ## 受賞
 2022/6 RCS研究会 優秀賞受賞  
-「OTFS伝送のためのパラメトリックGaBP(Gaussian Belief Propagation)を用いたデータと通信路の同時推定に関する一検討」 
+「OTFS伝送のためのパラメトリックGaBP(Gaussian Belief Propagation)を用いたデータと通信路の同時推定に関する一検討」
+2024/03 大阪大学 大学院工学研究科 電気電子情報通信工学専攻 菅田-Cohen賞
 
 ## 個人勉強
 - 機械学習(ML) 自然言語処理 
